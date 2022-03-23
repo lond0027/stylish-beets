@@ -54,7 +54,7 @@ p {
 
 .intro {
   font-family: "PT Serif", serif;
-  font-size: 1.125rem;
+  font-size: .8rem;
   font-style: normal;
   font-weight: normal;
 }
@@ -67,7 +67,7 @@ blockquote {
 
 .jim {
   font-family: "PT Serif", serif;
-  font-size: 1.125rem;
+  font-size: .8rem;
   font-style: italic;
   font-weight: normal;
 }

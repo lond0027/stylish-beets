@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #c9b5ab;
-  line-height: 1.5
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -48,14 +48,14 @@ a:hover {
 p {
   font-family: "PT Serif", serif;
   font-size: 1.125rem;
-  font-style:normal;
+  font-style: normal;
   font-weight: bold;
 }
 
 .intro {
   font-family: "PT Serif", serif;
   font-size: 1.125rem;
-  font-style:normal;
+  font-style: normal;
   font-weight: normal;
 }
 
@@ -68,48 +68,48 @@ blockquote {
 .jim {
   font-family: "PT Serif", serif;
   font-size: 1.125rem;
-  font-style:italic;
+  font-style: italic;
   font-weight: normal;
 }
 
 cite {
   font-family: "PT Serif", serif;
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-style: italic;
 }
 
-dt{
+dt {
   font-family: "PT Serif", serif;
   font-size: 1.125rem;
-  font-style:normal;
+  font-style: normal;
   font-weight: bold;
 }
 
-ol{
+ol {
   font-family: "PT Serif", serif;
   font-size: 1.125rem;
-  font-style:normal;
+  font-style: normal;
   font-weight: normal;
 }
 
-.info{
+.info {
   font-family: "PT Serif", serif;
   font-size: 1.125rem;
-  font-style:italic;
+  font-style: italic;
   font-weight: normal;
 }
 
-li{
+li {
   font-family: "PT Serif", serif;
   font-size: 1.125rem;
-  font-style:normal;
+  font-style: normal;
   font-weight: normal;
 }
 
 footer a:link {
-  color: #8f2440
+  color: #8f2440;
 }
 
 footer a:hover {
-  color: #3f1622
+  color: #3f1622;
 }

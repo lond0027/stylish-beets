@@ -85,6 +85,13 @@ dt {
   font-weight: bold;
 }
 
+dd {
+  font-family: "PT Serif", serif;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: normal;
+}
+
 ol {
   font-family: "PT Serif", serif;
   font-size: 1.125rem;
